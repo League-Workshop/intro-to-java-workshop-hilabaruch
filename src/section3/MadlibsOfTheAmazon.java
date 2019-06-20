@@ -24,11 +24,11 @@ public class MadlibsOfTheAmazon {
 		// likely take a bite out of your [body part] if you [verb]. Whatever
 		// you do, if you have an open wound, try to find another way to get
 		// back to the [place]. Good luck!
-		JOptionPane.showInputDialog(null,"Piranhas are more "+name+" during the day, so cross the river at"
+		JOptionPane.showMessageDialog(null,"Piranhas are more "+name+" during the day, so cross the river at"
 		+" night .Piranhas are attracted to fresh " +bob+" and will most"
-		+" likely take a bite out of your " +rose+  "if you" +blue+". Whatever"
+		+" likely take a bite out of your  " +rose+  " if you "   +blue+". Whatever"
 		+" you do, if you have an open wound, try to find another way to get"
-		+"back to the"  +red+". Good luck!");
+		+"back to the "  +red+". Good luck!");
 		// Make a pop-up for the final story. You can use \n to go to the next line
 		
 
